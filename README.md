@@ -1,6 +1,6 @@
 # Hi, I am Hongbusi.
 
-Hongbusi is my pseudonym and I like it. 
+Hongbusi is my pen name and I like it. 
 
 <!-- ## Personal Blog -->
 
