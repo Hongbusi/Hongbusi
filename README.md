@@ -1,4 +1,4 @@
-# Hey everyone, I am Hongbusi.
+# Hi, I am Hongbusi.
 
 Hongbusi(洪布斯) is my pseudonym and I like it. 
 
