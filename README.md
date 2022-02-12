@@ -10,11 +10,11 @@ I am a front-end developer, currently in Hangzhou.
 
 My hobby is cycling. If you happen to be in the same city I live, maybe we can go out together and enjoy the scenery of nature.
 
-Want to know more:
+<!-- Want to know more: -->
 
-- [Blog](https://hongbusi.github.io)
+<!-- - [Blog](https://hongbusi.github.io)
 - [Essay](https://github.com/Hongbusi/Essay): Personal essay.
-- [ToDoList](https://github.com/Hongbusi/ToDoList): Personal to-do list, updated every Sunday.
+- [ToDoList](https://github.com/Hongbusi/ToDoList): Personal to-do list, updated every Sunday. -->
 
 <!-- ## Projects -->
 
