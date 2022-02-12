@@ -13,8 +13,8 @@ My hobby is cycling. If you happen to be in the same city I live, maybe we can g
 Want to know more:
 
 - [Blog](https://hongbusi.github.io)
-- [Essay](https://github.com/Hongbusi/Essay) Personal essay.
-- [ToDoList](https://github.com/Hongbusi/ToDoList) Personal to-do list, updated every Sunday.
+- [Essay](https://github.com/Hongbusi/Essay): Personal essay.
+- [ToDoList](https://github.com/Hongbusi/ToDoList): Personal to-do list, updated every Sunday.
 
 <!-- ## Projects -->
 
