@@ -4,8 +4,9 @@ Hongbusi is my pen name and I like it.
 
 ## Personal Blog
 
-- [Essay](https://github.com/Hongbusi/Essay) Personal essay.
-- [ToDoList](https://github.com/Hongbusi/ToDoList) Personal to-do list, updated every Sunday.
+- [Blog](https://hongbusi.github.io)
+- [Essay](https://github.com/Hongbusi/Essay) : Personal essay.
+- [ToDoList](https://github.com/Hongbusi/ToDoList) : Personal to-do list, updated every Sunday.
 
 ## Personal Info
 
