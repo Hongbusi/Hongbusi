@@ -1,4 +1,4 @@
-# Hi, I am Hongbusi.
+# Hi, I am Hongbusi
 
 Hongbusi is my pen name and I like it. 
 
