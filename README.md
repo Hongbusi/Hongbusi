@@ -8,8 +8,6 @@ Hongbusi is my pen name and I like it.
 
 I am a front-end developer, currently in Hangzhou.
 
-My hobby is cycling. If you happen to be in the same city I live, maybe we can go out together and enjoy the scenery of nature.
-
 <!-- Want to know more: -->
 
 <!-- - [Blog](https://hongbusi.github.io)
