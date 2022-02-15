@@ -4,7 +4,7 @@ Hongbusi is my pen name and I like it.
 
 <!-- ## Personal Blog -->
 
-## Personal Info
+<!-- ## Personal Info -->
 
 I am a front-end developer, currently in Hangzhou.
 
