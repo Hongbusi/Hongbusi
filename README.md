@@ -3,7 +3,7 @@
     <a href="https://hongbusi.github.io">Me</a> .
     <a href="https://hongbusi.github.io/posts">Blog</a> .
     <a href="https://hongbusi.github.io/projects">Projects</a> .
-    <a href="https://hongbusi.github.io/essay">Essay</a> .
+    <a href="https://hongbusi.github.io/essays">Essays</a> .
     <a href="https://hongbusi.github.io/bookmarks">Bookmarks</a> .
     <a href="https://hongbusi.github.io/notes">Notes</a> .
     <a href="https://twitter.com/Hongbusi">Tweets</a>
