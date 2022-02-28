@@ -1,12 +1,12 @@
 <p align="center">
   <samp>
-    <a href="https://hongbusi.github.io">me</a> .
-    <a href="https://hongbusi.github.io/posts">blog</a> .
-    <a href="https://hongbusi.github.io/projects">projects</a> .
-    <a href="https://hongbusi.github.io/essay">essay</a> .
-    <a href="https://hongbusi.github.io/bookmarks">bookmarks</a> .
-    <a href="https://hongbusi.github.io/notes">notes</a> .
-    <a href="https://twitter.com/Hongbusi">tweets</a>
+    <a href="https://hongbusi.github.io">Me</a> .
+    <a href="https://hongbusi.github.io/posts">Blog</a> .
+    <a href="https://hongbusi.github.io/projects">Projects</a> .
+    <a href="https://hongbusi.github.io/essay">Essay</a> .
+    <a href="https://hongbusi.github.io/bookmarks">Bookmarks</a> .
+    <a href="https://hongbusi.github.io/notes">Notes</a> .
+    <a href="https://twitter.com/Hongbusi">Tweets</a>
   </samp>
 </p>
 
