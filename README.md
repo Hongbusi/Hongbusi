@@ -2,32 +2,11 @@
   <samp>
     <a href="https://hongbusi.github.io">Me</a> .
     <a href="https://hongbusi.github.io/posts">Blog</a> .
-    <a href="https://hongbusi.github.io/docs">Docs</a> .
     <a href="https://hongbusi.github.io/essays">Essays</a> .
     <a href="https://hongbusi.github.io/projects">Projects</a> .
     <a href="https://twitter.com/Hongbusi">Tweets</a>
   </samp>
 </p>
-
-<!-- # Hi, I am Hongbusi -->
-
-<!-- Hongbusi is my pen name and I like it.  -->
-
-<!-- ## Personal Blog -->
-
-<!-- ## Personal Info -->
-
-<!-- I am a front-end developer, currently in Hangzhou. -->
-
-<!-- Want to know more: -->
-
-<!-- - [Blog](https://hongbusi.github.io)
-- [Essay](https://github.com/Hongbusi/Essay): Personal essay.
-- [ToDoList](https://github.com/Hongbusi/ToDoList): Personal to-do list, updated every Sunday. -->
-
-<!-- ## Projects -->
-
-<!-- ## Stats -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbusi&layout=compact) -->
 
