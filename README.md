@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="flex">
+<div>
   <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="60%" />
   <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat.jpg" width="30%" />
 </div>
