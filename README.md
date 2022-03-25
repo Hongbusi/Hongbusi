@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics2.svg" width="48%" />
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="100%" />
 </div>
 
 <!-- <p align="center">

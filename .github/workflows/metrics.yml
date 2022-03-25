@@ -11,42 +11,19 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics 1
+
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          filename: metrics1.svg
-          user: Hongbusi
-          base: header, activity, repositories, metadata
-          config_timezone: Asia/Beijing
-          config_twemoji: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_lines: yes
-          use_prebuilt_image: yes
-
-      - name: Metrics 2
-        uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          filename: metrics2.svg
+          filename: metrics.svg
           user: Hongbusi
           base: ""
           config_timezone: Asia/Beijing
           config_twemoji: yes
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: B
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           use_prebuilt_image: yes
