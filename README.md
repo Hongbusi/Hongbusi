@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/Hongbusi/Hongbusi/metrics.svg" width="48%" />
-  <img src="https://cdn.jsdelivr.net/gh/Hongbusi/Hongbusi/qr-code.jpg" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/Hongbusi/Hongbusi/qr-code.png" width="48%" />
 </div>
 
 <!-- <p align="center">
