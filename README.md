@@ -2,7 +2,7 @@
 
 <div style="flex">
   <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="60%" />
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat.jpg" width="38%" />
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat.jpg" width="30%" />
 </div>
 
 <!-- <p align="center">
