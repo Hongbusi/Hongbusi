@@ -1,4 +1,11 @@
-<p align="center">
+### Hi there 👋
+
+<div>
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics2.svg" width="48%" />
+</div>
+
+<!-- <p align="center">
   <samp>
     <a href="https://hongbusi.github.io">Me</a> .
     <a href="https://hongbusi.github.io/posts">Blog</a> .
@@ -6,7 +13,7 @@
     <a href="https://hongbusi.github.io/projects">Projects</a> .
     <a href="https://twitter.com/Hongbusi">Tweets</a>
   </samp>
-</p>
+</p> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbusi&layout=compact) -->
 
