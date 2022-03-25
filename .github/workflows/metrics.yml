@@ -21,7 +21,7 @@ jobs:
           # Options
           filename: metrics.svg
           user: Hongbusi
-          base: header, activity
+          base: activity
           config_timezone: Asia/Beijing
           config_twemoji: yes
           plugin_isocalendar: yes
