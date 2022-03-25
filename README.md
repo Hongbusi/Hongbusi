@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="48%" />
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat.jpg" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/Hongbusi/Hongbusi/metrics.svg" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/Hongbusi/static/wechat.jpg" width="48%" />
 </div>
 
 <!-- <p align="center">
