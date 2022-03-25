@@ -2,7 +2,7 @@
 
 <div style="flex">
   <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="58%" />
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat.png" width="40%" />
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat.jpg" width="40%" />
 </div>
 
 <!-- <p align="center">
@@ -19,7 +19,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Hongbusi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true) -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=Hongbusi&color=red) -->
+![](https://komarev.com/ghpvc/?username=Hongbusi&color=red)
 
 <!-- ### Hi, welcome to my github homepage.
 
