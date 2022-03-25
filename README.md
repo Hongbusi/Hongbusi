@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <samp>
     <a href="https://hongbusi.github.io">Me</a> .
     <a href="https://hongbusi.github.io/posts">Blog</a> .
@@ -6,7 +6,7 @@
     <a href="https://hongbusi.github.io/projects">Projects</a> .
     <a href="https://twitter.com/Hongbusi">Tweets</a>
   </samp>
-</p> -->
+</p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbusi&layout=compact) -->
 
@@ -14,7 +14,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Hongbusi&color=red) -->
 
-### Hi, welcome to my github homepage.
+<!-- ### Hi, welcome to my github homepage.
 
 I am Hongbusi, a front-end developer. Currently working in Hangzhou.
 
@@ -26,4 +26,4 @@ The goal is to be a [Vue.js](https://github.com/vuejs) contributor, not just bec
 
 Find me on [Twitter](https://www.twitter.com/Hongbusi), mail me at [coderhbs@gmail.com](mailto:coderhbs@gmail.com).
 
-Thanks for reading :)
+Thanks for reading :) -->
