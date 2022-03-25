@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" />
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="60%" />
 </div>
 
 <!-- <p align="center">
