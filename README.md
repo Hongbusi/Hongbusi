@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<div>
-  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="60%" />
+<div style="flex">
+  <img src="https://github.com/Hongbusi/Hongbusi/blob/main/metrics.svg" width="58%" />
+  <div style="width: 40%">
+    <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat1.png" width="100%" />
+    <img src="https://github.com/Hongbusi/Hongbusi/blob/main/wechat2.png" width="100%" />
+  </div>
 </div>
 
 <!-- <p align="center">
