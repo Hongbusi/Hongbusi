@@ -5,8 +5,8 @@ Hongbusi is my pen name and I like it.
 ### Introduction
 
 - 🖥 A front-end developer.
-- 🔭 I’m currently working in [Edusoho](https://github.com/edusoho).
-- 🌱 I’m currently learning English.
+- 🔭 I'm currently working in [Edusoho](https://github.com/edusoho).
+- 🌱 I'm currently learning English.
 - 📫 How to reach me: Find me on [Twitter](https://www.twitter.com/Hongbusi), mail me at [coderhbs@gmail.com](mailto:coderhbs@gmail.com).
 
 ### Language
