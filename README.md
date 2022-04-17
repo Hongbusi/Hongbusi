@@ -1,9 +1,24 @@
 ### Hi there 👋
 
-<div>
+![Hongbusi's Github stats](https://github-readme-stats.vercel.app/api?username=Hongbusi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff)
+
+### Introduction
+
+- 🖥 A front-end developer.
+- 🔭 I’m currently working in Hangzhou.
+- 🌱 I’m currently learning English.
+- 📫 How to reach me: Find me on [Twitter](https://www.twitter.com/Hongbusi), mail me at [coderhbs@gmail.com](mailto:coderhbs@gmail.com).
+
+### Language
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbusi&layout=compact&bg_color=ffffff)
+
+![Profile views](https://komarev.com/ghpvc/?username=Hongbusi&color=red)
+
+<!-- <div>
   <img src="https://cdn.jsdelivr.net/gh/Hongbusi/Hongbusi/metrics.svg" width="48%" />
   <img src="https://cdn.jsdelivr.net/gh/Hongbusi/Hongbusi/qr-code.png" width="48%" />
-</div>
+</div> -->
 
 <!-- <p align="center">
   <samp>
@@ -14,23 +29,3 @@
     <a href="https://twitter.com/Hongbusi">Tweets</a>
   </samp>
 </p> -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbusi&layout=compact) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Hongbusi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true) -->
-
-![](https://komarev.com/ghpvc/?username=Hongbusi&color=red)
-
-<!-- ### Hi, welcome to my github homepage.
-
-I am Hongbusi, a front-end developer. Currently working in Hangzhou.
-
-(Hongbusi is my pen name and I like it.)
-
-If you find some strange English when reading my site, you don't have to be surprised, because I'm learning and trying to use it. I'd appreciate it if you could point it out for me.
-
-The goal is to be a [Vue.js](https://github.com/vuejs) contributor, not just because [Evan You](https://github.com/yyx990803), [Anthony Fu](https://github.com/antfu) is my idol. If you want to know more about me, I think you can read this [site](https://hongbusi.github.io) or find out about my plans through [todolist](https://github.com/Hongbusi/ToDoList).
-
-Find me on [Twitter](https://www.twitter.com/Hongbusi), mail me at [coderhbs@gmail.com](mailto:coderhbs@gmail.com).
-
-Thanks for reading :) -->
