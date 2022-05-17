@@ -6,7 +6,7 @@ Hongbusi is my pen name and I like it.
 
 ### Introduction
 
-- 👨‍💻 A front-end developer.
+- 👨‍💻 A open source enthusiast, [developer-plus](https://github.com/developer-plus) creator.
 - 🔭 I'm currently working in [EduSoho](https://github.com/edusoho).
 - 🌱 I'm currently learning English.
 - 💬 Be free to ask me about anything [here](https://github.com/Hongbusi/Hongbusi/issues).
