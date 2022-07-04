@@ -7,10 +7,10 @@ Hongbusi is my pen name and I like it.
 ### Introduction
 
 - 👨‍💻 A open source enthusiast, [developer-plus](https://github.com/developer-plus) creator.
-- 🔭 I'm currently working in [EduSoho](https://github.com/edusoho).
 - 🌱 I'm currently learning English.
 - 💬 Be free to ask me about anything [here](https://github.com/Hongbusi/Hongbusi/issues).
 - 📫 How to reach me: Find me on [Twitter](https://www.twitter.com/Hongbusi), mail me at [coderhbs@gmail.com](mailto:coderhbs@gmail.com).
+<!-- - 🔭 I'm currently working in [EduSoho](https://github.com/edusoho). -->
 
 ### Language
 
