@@ -16,7 +16,7 @@ Hongbusi is my pen name and I like it.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbusi&layout=compact&bg_color=ffffff)
 
-<!-- ### GitHub Stats -->
+### GitHub Stats
 
 ![Hongbusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongbusi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff)
 
